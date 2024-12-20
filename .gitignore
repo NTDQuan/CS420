@@ -1,1 +1,3 @@
 /FaceRecognition/weights
+/FaceRecognition/models/face_detection/weight
+/FaceRecognition/models/face_recognition/weight
