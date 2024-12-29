@@ -1,3 +1,9 @@
 /FaceRecognition/weights
 /FaceRecognition/models/face_detection/weight
 /FaceRecognition/models/face_recognition/weight
+/FaceRecognition/data/face_bank/backup/*
+/FaceRecognition/data/face_bank/faces/*
+/FaceRecognition/data/face_bank/new_face_backup
+/FaceRecognition/Face_test/*
+**/*.onnx
+**/*.pth
