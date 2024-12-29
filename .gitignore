@@ -7,3 +7,4 @@
 /FaceRecognition/Face_test/*
 **/*.onnx
 **/*.pth
+/FaceRecognition/lfw
